@@ -8,7 +8,7 @@ import cors from "cors";
 import { loadBackendPRG } from "./src/back/cultural_events.js";
 
 // Importa el handler del frontend (posiblemente generado por SvelteKit)
-import { handler } from "./src/front/build/handler.js";
+// import { handler } from "./src/front/build/handler.js";
 
 // Inicializa la aplicación Express
 const app = express();
