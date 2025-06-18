@@ -1,0 +1,26 @@
+{
+  "name": "sos2425-jul-prg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gti-sos/sos2425-jul-prg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gti-sos/sos2425-jul-prg/issues"
+  },
+  "homepage": "https://github.com/gti-sos/sos2425-jul-prg#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
