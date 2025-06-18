@@ -5,7 +5,7 @@ import express from "express";
 import cors from "cors";
 
 // Importa la función que define y carga las rutas del backend (API REST)
-import { loadBackendPRG } from "./src/back/cultural-events.js";
+import { loadBackendPRG } from "./src/back/cultural_events.js";
 
 // Importa el handler del frontend (posiblemente generado por SvelteKit)
 import { handler } from "./src/front/build/handler.js";
